@@ -1,0 +1,5 @@
+.vs
+IdentityServerAspNetCore/bin
+IdentityServerAspNetCore/obj
+IdentityServerConsole/bin
+IdentityServerConsole/obj
